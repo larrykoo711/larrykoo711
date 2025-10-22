@@ -2,10 +2,11 @@
 
 [To My Bento](https://bento.me/larrykoo)
 
-- 🤖  Java 云原生技术方向 | 架构师 | 服务化 | 容器化 | DDD 领域
-- 🌱  我热爱开源，热爱写作，热爱分享
-- 📫  混迹于各类开源社群，因为 Java 技术栈，所有热衷于阿里技术
-- 💬  想要交流 微信 @larrykoo77
+- 🤖 AI 全栈INFJ工程师 | Agent 架构师 | 服务化 | 容器化 | Cloud First
+- 🧑‍💻 投身人工智能 | LLM | Agent | AI客服 | AIGC 创作
+- 🌱 热爱开源 | 热爱写作 | 热爱分享 | 热爱上下文工程
+- ✨ Interested in AI,LLM,MCP and Design
+- 💬 一起学习交流 | WeChat `@larrykoo77` or `larry.koo@gmail.com`
 
 ### 新年汇总
 
